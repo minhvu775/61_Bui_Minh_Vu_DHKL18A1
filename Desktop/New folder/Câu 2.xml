@@ -1,0 +1,21 @@
+# Cau2. Duong Van Quynh - DHKL18A1HN - 24174600058
+<?xml version="1.0" encoding="UTF-8"?>
+<ds-sinhvien>
+    <sinhvien>
+        <masv>24174600058</masv>
+            <tensv>Duong Van Quynh</tensv>
+        <namsinh>2006</namsinh>
+        <lop>DHKL18A1HN</lop>
+        <gioitinh>Nam</gioitinh>
+    </sinhvien>
+
+    <sinhvien>
+        <masv>24174600051</masv>
+        <tensv>Tran Tuan Hung</tensv>
+        <namsinh>2006</namsinh>
+        <lop>DHKL18A1HN</lop>
+        <gioitinh>Nam</gioitinh>
+    </sinhvien>
+
+    <!-- Thêm các sinh viên khác vào đây -->
+</ds-sinhvien>

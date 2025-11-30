@@ -1,0 +1,16 @@
+{
+    "firstName": "A",
+    "lastName": "Nguyen Van",
+    "hobbies": ["Da bong", "Lai xe", "Chup anh"],
+    "age": 35,
+    "children": [
+        {
+            "firstName": "Minh",
+            "tuoi": 7
+        },
+        {
+            "firstName": "Anh",
+            "tuoi": 4
+        }
+    ]
+}
